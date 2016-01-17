@@ -3,7 +3,7 @@
  * @version 1.0
  * @author Linea de Codigo (http://lineadecodigo.com)
  * @date   17/enero/2016
- * @url  http://lineadecodigo.com/mongodb/xxx/
+ * @url  http://lineadecodigo.com/mongodb/eliminar-campo-de-un-documento-en-mongodb/
  * @description Borra un campo en concreto de un documento
  */
 
